@@ -1357,6 +1357,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [AnyDesk](https://anydesk.com/en) - AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike.
 - [![Open-Source Software][oss icon]](https://github.com/debauchee/barrier/) [Barrier](https://github.com/debauchee/barrier/) - Share mouse and keyboard over the local network.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/connections) [Connections](https://apps.gnome.org/app/org.gnome.Connections/) - Connections allows you to connect to and use other desktops. This can be a great way to access content or software on a different desktop operating system.
+- [![Open-Source Software][oss icon]](https://github.com/OpenThinRdp/openthinrdp) [OpenThinRDP](https://openthinrdp.github.io/) - Thin client OS (Debian + FreeRDP) for Windows Remote Desktop and VDI, with RDP over UDP, kiosk sign-in and central management from a shared folder.
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [![Open-Source Software][oss icon]](https://github.com/rustdesk/rustdesk) [Rustdesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [Teamviewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
